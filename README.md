@@ -26,6 +26,14 @@ Important decisions to make involve :
                Advantages include more security and privacy and enables you to have better control over who edits your code.
                Disadvantages include less visibility as less people will see your code and less people can contribute to your code limiting collaboration.
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+    Commits records changes made to files in repositories. They help in tracking changes by ; enabling you to compare two commits, enabling you to refer back to a previous commit, enabling you to monitor each changes made to the file . Steps include: 1. Make a repository
+                                                                             2. Ensure it includes a README file 
+                                                                             3. Edit the README file as needed
+                                                                             4. click on commit changes
+                                                                             5. Input a description
+                                                                             6. Select branch
+                                                                             7. Save Commit
+     
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
