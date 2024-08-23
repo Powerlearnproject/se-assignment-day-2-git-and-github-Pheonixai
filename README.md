@@ -19,9 +19,12 @@ Important decisions to make involve :
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
   A README file is used to provide a long or extended description of your repository or a project.
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
-   Answer : - A public repository is one which is visible to everyone basically anyone with a github account. Advantages include , more visibility since a lot of people will be able to view your repository , 
-     -  A private repository is one which is only visible to selected people who have your repository link or collaborators. Advantages include more security
-Disadvantages include less visibility 
+   Answer : - A public repository is one which is visible to everyone basically anyone with a github account. 
+              Advantages include , more visibility since a lot of people will be able to view  and contribute to your repository therefore very rffective for collaborative projects.
+              Disadvantages include potential security risks and risk of people stealing your code .
+           -  A private repository is one which is only visible to selected people who have your repository link or collaborators.
+               Advantages include more security and privacy and enables you to have better control over who edits your code.
+               Disadvantages include less visibility as less people will see your code and less people can contribute to your code limiting collaboration.
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
