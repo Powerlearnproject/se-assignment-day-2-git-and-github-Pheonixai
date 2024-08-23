@@ -44,7 +44,12 @@ Important decisions to make involve :
                                                                                       5. Add a description
                                                                                       6. Create pull requests
                                                                                       7. Merge pull request
-## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request? 
+      Pull requests are usually used in collaborative work involving several branches. It allows for review of the code by other developers to ensure it meets set standards and review any potential errors. Steps involved : 1. Create a new branch
+                                                  2. Propose changes
+                                                  3. Add a description 
+                                                  6. Create pull requests
+                                                  7. Merge pull request
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
