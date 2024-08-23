@@ -26,7 +26,8 @@ Important decisions to make involve :
                Advantages include more security and privacy and enables you to have better control over who edits your code.
                Disadvantages include less visibility as less people will see your code and less people can contribute to your code limiting collaboration.
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
-    Commits records changes made to files in repositories. They help in tracking changes by ; enabling you to compare two commits, enabling you to refer back to a previous commit, enabling you to monitor each changes made to the file . Steps include: 1. Make a repository
+    Commits records changes made to files in repositories. They help in tracking changes by ; enabling you to compare two commits, enabling you to refer back to a previous commit, enabling you to monitor each changes made to the file . 
+                                                              Steps include: 1. Make a repository
                                                                              2. Ensure it includes a README file 
                                                                              3. Edit the README file as needed
                                                                              4. click on commit changes
@@ -36,7 +37,13 @@ Important decisions to make involve :
      
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
-
+     Branching allows you to create different parts or sections of your project.Its important because it allows different collaborators to work on the project seperately without crossing each other. It allows for better organization . To create a branch ; 1. Click on Commit chnages
+                                                                                      2. Click on -Create a new branch-
+                                                                                      3. Name the branch
+                                                                                      4. Click on -Propose changes-
+                                                                                      5. Add a description
+                                                                                      6. Create pull requests
+                                                                                      7. Merge pull request
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
