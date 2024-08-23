@@ -52,6 +52,7 @@ Important decisions to make involve :
                                                   7. Merge pull request
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+      Forking is a process of making a copy of a repository which is totally different from the original repository. In forking, the new repository is independent of the original, i.e changes made to it does not affect the original repository. While cloning is a method used to copy a repository locally to your personal computer or device and changes made affects original repository because it is not a seperate entity. Forking would be useful in an instance where you want to create a new project from an existing project without changing the original
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
